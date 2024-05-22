@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 👋
 
-<!--
-**MaPaBaLi/MaPaBaLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marcos Paulo Barros Lima.
+- Estou estudando na alura
+- Estou TENTANDO aprender javascript, mas pelo jeito não é minha área
+- Estou tentando utilizar esse espaço para o compartilhamento de projetos pessoais...mas tá difícil.
 
-Here are some ideas to get you started:
+## Pode entrar em contato comigo com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gmail: marcoskakopaulo987654321@gmail.com
+Instagram: (nenhum)
+LinkedIn: (em andamento)
+Discord: Mpbl
+Whatzapp: 13 99641-2923
