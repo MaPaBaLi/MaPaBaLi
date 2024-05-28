@@ -1,12 +1,12 @@
-# Hi, i'm <a href="https://t.me/klzinnn" rel="noopener noreferrer">Klzinn</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px">
+# Hi, i'm <a href="https://t.me/MaPaBaLi" rel="noopener noreferrer">MaPaBaLi</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px">
 
 ```
-🚫 CONTA BANIDA: https://github.com/klzinnn
+🚫 CONTA BANIDA: https://github.com/MaPaBaLi
 ```
 
 <br>
 
-```“Se você não pode convencê-los, confunda-os.”```<br><br>
+```“Se não pode contra eles, se junte a eles.”```<br><br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/2917/2917073.png" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp; ```📍 Brasil```<br>
 
