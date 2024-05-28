@@ -12,3 +12,5 @@ Instagram: (nenhum)
 LinkedIn: (em andamento)
 Discord: Mpbl
 Whatzapp: 13 99641-2923
+
+![] (https://tenor.com/bXbF3.gif)
